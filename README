@@ -1,0 +1,7 @@
+<H1> WASHING MACHINE CONTROLLER <H1>
+
+Testbenches included for major components so you can test using Xilinx or similar.
+
+Note : You're going to need at least 4 input buttons (exluding clock) for this to work on your FPGA or other device.
+
+Controller_1 is a good place to start :)
